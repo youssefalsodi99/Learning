@@ -1,0 +1,33 @@
+1. what is compiler? and how it works?
+  Compiler: Converts high-level code to machine code in one go. Works by translating the entire program before execution.
+==============================================================================================
+2. what is interpreter? and how it works?
+  Interpreter: Executes code line-by-line. Works by translating and running each instruction sequentially.
+==============================================================================================
+3. what is assembler?
+  Assembler: Converts assembly language into machine code.  
+==============================================================================================
+4. what is linker?
+   Linker: Combines object files and libraries into a single executable (e.g., .exe).
+==============================================================================================  
+5. what is exe file ?
+   EXE File: A Windows executable file containing machine code ready to run.
+==============================================================================================
+6. what is loader?
+   Loader: Loads the executable file into memory for execution.
+==============================================================================================
+7. which is faster compiled or iterpreted languages?
+   Faster: Compiled languages are generally faster than interpreted ones.
+==============================================================================================
+8. does interpreter produce exe file?
+   Interpreter & EXE: No, interpreters do not produce .exe files.
+==============================================================================================
+9. does interpreter save machine code?
+   Interpreter & Machine Code: No, interpreters do not save machine code.
+==============================================================================================
+10. does compiler produce exe file?
+    Compiler & EXE: Yes, compilers can produce .exe files.
+==============================================================================================
+11. does compiler save machine code?
+Compiler & Machine Code: Yes, compilers save machine code (e.g., in .exe or object files).
+==============================================================================================

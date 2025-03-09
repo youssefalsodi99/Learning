@@ -1,0 +1,8 @@
+Solve the followng problems:
+
+12 >= 12 : true ;   -   not (12 >= 12) : false ;   -   1 AND 1      : true  ;   -   (7 = 7) and (7 > 5 )     : true   ;
+12 > 7   : true ;   -   not (12 < 7)   : false ;   -   True AND 1   : true  ;   -   (7 = 7) and (7 < 5 )     : false  ;
+8 < 6   : false ;   -   not (8 < 6)    : true  ;   -   0 OR 1       : true  ;   -   (7 = 7) OR (7 < 5 )      : true   ;
+8 = 8    : true ;   -   not (8 = 8)    : false ;   -   0 OR 0       : false ;   -   (7 < 7) OR (7 > 5 )      : true   ;
+12 <= 12 : true ;   -   not (12 <= 12) : false ;   -   Not 0        : true  ;   -   NOT (7 = 7) and (7 > 5 ) : false  ;
+7 = 5   : false ;   -   not (7 < 5)    : true  ;   -   Not (1 OR 0) : false ;   -   (7 = 7) and Not (7 > 5 ) : false  ;

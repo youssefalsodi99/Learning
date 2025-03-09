@@ -1,0 +1,51 @@
+1- What is a Variable? And why do we need it?
+A variable is a named storage location in memory that holds data which can be changed during program execution. We need variables to store and manipulate data dynamically in programs.
+==========
+2- What is a Constant? And why do we need it?
+A constant is a value that does not change during the execution of a program. We need constants to define fixed values that remain the same throughout the program, ensuring consistency and preventing accidental changes.
+==========
+3- What is a Memory Cell?
+A memory cell is the smallest unit of memory in a computer, typically storing one byte (8 bits) of data. It has a unique address and can hold binary information.
+==========
+4- What is an Identifier?
+An identifier is a name given to variables, functions, classes, or other entities in a program. It is used to uniquely identify these entities within the code.
+==========
+5- What is a Memory Address? What is its relation to location?
+A memory address is a unique identifier for a specific location in memory where data is stored. It relates to the physical or logical location in memory where the data resides.
+==========
+6- Which numbering system is used in memory address?
+Memory addresses are typically represented in the hexadecimal (base-16) numbering system for simplicity and efficiency.
+==========
+7- Mention the primary types of variables?
+The primary types of variables are:
+1. Integer (int)	2. Floating-point (float)	3. Character (char)	4. Boolean (bool)
+==========
+8- What are the number's types? And give examples?
+The main types of numbers are: Integer: Whole numbers (e.g., 5, -3) , Floating-point: Decimal numbers (e.g., 3.14, -0.001)
+==========
+9- What is a String? And give an example of it.
+A string is a sequence of characters used to represent text. It is typically enclosed in quotes. Example: "Hello, World!"
+==========
+10- What is a Boolean? And give an example of it.
+A Boolean is a data type that can hold one of two values: true or false. It is used in logical operations and conditions. Example: bool isRaining = true;
+==========
+11- Are all variables and constants the same size?
+No, size depends on data type.
+==========
+12- What happens when you use a much larger size than you need in variables?
+Wastes memory, inefficient.
+==========
+13- Can we modify a variable during the program?
+Yes, variables are changeable.
+==========
+14- Can we modify a constant during the program?
+No, constants are fixed.
+==========
+15- How to make a variable read-only?
+Use const or final keywords.
+==========
+16- Where do variables and constants get stored?
+In memory (RAM).
+==========
+17- What is the difference between Integers and Floats?
+Integers: whole numbers. Floats: decimal numbers.
